@@ -276,5 +276,5 @@ VITE_BACKEND_URL=https://your-backend-url.com
 
 ## 📄 License
 
-MIT License © 2025 Amisha
+made with ❤️ by Vishal
 
